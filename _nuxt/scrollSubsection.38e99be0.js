@@ -1,0 +1,1 @@
+import{d as s,b as o,c as t,al as c}from"./entry.da37b844.js";const n={class:"scroll-sub-section"},_=s({__name:"scrollSubsection",setup(a){return(e,l)=>(o(),t("div",n,[c(e.$slots,"default")]))}});export{_ as default};
